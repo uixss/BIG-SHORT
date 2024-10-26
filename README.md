@@ -22,12 +22,12 @@ This script is a URL shortener that integrates various URL shortening services. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/url-shortener-bot.git
+   git clone https://github.com/uixss/big-shot.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd url-shortener-bot
-   ```
+   cd bit-short
+      ```
 3. Install the required Python libraries:
    ```bash
    pip install -r requirements.txt
