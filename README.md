@@ -28,13 +28,9 @@ This script is a URL shortener that integrates various URL shortening services. 
    ```bash
    cd bit-short
       ```
-3. Install the required Python libraries:
+3. Run the script with a URL as an argument:
    ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the script with a URL as an argument:
-   ```bash
-   python shortener_bot.py https://example.com
+   python manager.py https://example.com
    ```
 
 ## Requirements 📋
